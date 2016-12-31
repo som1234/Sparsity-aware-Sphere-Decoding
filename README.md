@@ -5,9 +5,13 @@ Citation: "Barik, Somsubhra, and Haris Vikalo. "Sparsity-aware sphere decoding: 
 
 ## Files 
 master.m
+
 runSDsparse.m
+
 SDsparsecmplxty.m
+
 combn.m
+
 sparse_constellation.m
 
 ## Installation 
